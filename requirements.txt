@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic-settings
+python-jose
+python-multipart
+redis
+chromadb
+sentence-transformers
+langchain-text-splitters
+rank-bm25
+httpx
+slowapi
+celery
+python-docx
+pymupdf
+playwright
+beautifulsoup4
